@@ -1,0 +1,25 @@
+.newsfeed{
+    border:1px solid orange;
+    flex: 0.7;
+}
+
+.newsfeed_protfolio{
+    text-align: left;
+}
+
+.newsfeed_protfolio > h1{
+    
+}
+
+.newsfeed_protfolio > p{
+
+}
+
+.newsfeed_chart{
+    display: flex;
+    justify-content: center;
+}
+.newsfeed_chartSec{
+    display: flex;
+    flex-direction: column;
+}
